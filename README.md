@@ -7,4 +7,3 @@ Algorithms: Linear Regression, Random Forest.
 Results: Random Forest achieved R² = 0.92 (92% accuracy).
 📊 Dataset
 Download the Bike Sharing Dataset.
-Place day.csv in the data/ folder.
