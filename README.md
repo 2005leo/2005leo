@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Leonardo Agüero
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently training to be an excellent Data Analyst, and future Data Engineer
-- 💞️ I’m looking to collaborate on key and important job roles solving problems and providing the best solutions
-- 📫 How to reach me: www.linkedin.com/in/leonardo-aguero-ds  ---  2005leo@gmail.com
+🚲 Bike Rental Prediction Project
+Predict daily bike rentals using weather and seasonal data with machine learning.
 
-
-<!---
-2005leo/2005leo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 Overview
+Goal: Predict bike rentals using temperature, season, and weather.
+Algorithms: Linear Regression, Random Forest.
+Results: Random Forest achieved R² = 0.92 (92% accuracy).
+📊 Dataset
+Download the Bike Sharing Dataset.
+Place day.csv in the data/ folder.
